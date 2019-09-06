@@ -1,0 +1,13 @@
+{
+  "name": "just-node",
+  "version": "1.0.0",
+  "description": "An Node.js server built without Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "node --nolazy --inspect-brk=9229 index.js"
+  },
+  "author": "Rahul Sethi",
+  "license": "ISC"
+}
